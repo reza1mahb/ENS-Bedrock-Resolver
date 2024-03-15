@@ -1,6 +1,6 @@
 
 # EditorConfig is awesome: https://EditorConfig.org
-root = true
+root = false
 
 [*]
 charset = utf-8
